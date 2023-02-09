@@ -1,5 +1,6 @@
 ### Hi there 👋
-hello
+hello Ijse
+This site was built using [IJSE Pages](https://www.ijse.lk/)
 
 <!--
 **hashandananjaya/hashandananjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
