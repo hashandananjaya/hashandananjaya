@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hashan</h1>
 <h3 align="center">A A passionate Software Engineer  from Sri Lanka</h3>
 
-<img aling="rigth" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=tpD%2BGXXu&id=8F7FD311F2B9C14E828957BB9AA86DDD00D8B1B0&thid=OIP.tpD-GXXuquz9lWfiO5cL5gHaD4&mediaurl=https%3A%2F%2Fwebbiz.ie%2Fwp-content%2Fuploads%2F2018%2F09%2FUI-UX-Designer.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.b690fe1975eeaaecfd9567e23b970be6%3Frik%3DsLHYAN1tqJq7Vw%26pid%3DImgRaw%26r%3D0&exph=755&expw=1440&q=game+development+management&simid=608010581802830144&form=IRPRST&ck=726645E9C496F22E836F6FFB46C7F50D&selectedindex=5&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_cYCAcQsX*cp_A820A44B2EA8BB9873D972AB3893517D*mid_3C72E99C3BA51B8D694139B5BF252D0B2E884AA9*simid_607988192158052705*thid_OIP.cYCAcQsXj1zP75s4tSnmuAHaEH&vt=0&sim=11&iss=VSI">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
