@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hashan</h1>
 <h3 align="center">A A passionate Software Engineer developer from Sri Lanka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashandananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="hashandananjaya" /> </p>
+
+- 🌱 I’m currently learning **Computer Science**
+
+- 💬 Ask me about **JAVA,MySQL**
+
+- 📫 How to reach me **hashandananjayakalanath@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hashan-dananjaya-ab28342a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hashan-dananjaya-ab28342a5/" height="30" width="40" /></a>
