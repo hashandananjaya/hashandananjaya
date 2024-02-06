@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashan</h1>
 <h3 align="center">A A passionate Software Engineer  from Sri Lanka</h3>
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/hashan-dananjaya-ab28342a5/</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
